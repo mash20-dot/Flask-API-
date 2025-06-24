@@ -14,7 +14,7 @@ class Usermodel(db.Model):
     email = db.Column(db.String(80), unique=True, nullable=False)
     
     def __repr__(self):
-        return f"User(name = {self.name}, email = {self.name})"
+        return f"User(name = {self.name}, email = {self.email})"
 
 user_args = reqparse.RequestParser()
 user_args.add_argument('name', type=str, required=True, help="Name cannot be blank")
