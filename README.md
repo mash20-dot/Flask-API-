@@ -19,8 +19,10 @@ Welcome to my simple RESTful API built with **Flask**, **Flask-RESTful**, and **
 ## 📦 Technologies Used:
 Flask and sqlite
 
+HOW TO RUN:
 Run the api by: python3 app.py
 
+HOW TO TEST:
 Use postman or insomnia to test this API, with the requet body:
 "name": "myname"
 "email": "myemail"
