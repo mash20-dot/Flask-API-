@@ -1,29 +1,46 @@
 # 🧪 Flask RESTful API - User Management
 
-Welcome to my simple RESTful API built with **Flask**, **Flask-RESTful**, and **SQLAlchemy**. This project manages user data (name and email) using a clean CRUD structure. It uses SQLite for the database.
+This is a simple RESTful API built using **Flask**, **Flask-RESTful**, and **SQLAlchemy** to manage user data such as names and emails. It supports full CRUD operations and uses **SQLite** as the database.
 
 ---
 
 ## 🚀 Features
 
-- Add new users
-- Get all users or a single user by ID
+- Create new users
+- Retrieve all users or a single user by ID
 - Update user information
-- Delete a user
-- RESTful routes
-- Clear response formatting with `marshal_with`
-- Error handling with `abort`
+- Delete users
+- Proper error handling with `abort`
+- Clean response formatting using `marshal_with`
 
 ---
 
-## 📦 Technologies Used:
-Flask and sqlite
+## 📦 Technologies Used
 
-HOW TO RUN:
-Run the api by: python3 app.py
+- 🐍 **Flask**
+- 🗄️ **SQLite**
+- 📮 **Flask-RESTful**
+- 📘 **SQLAlchemy**
 
-HOW TO TEST:
-Use postman or insomnia to test this API, with the requet body:
-"name": "myname"
-"email": "myemail"
+---
+
+## 🛠️ How to Run
+
+1. Make sure you have Python installed.
+2. Navigate to the project directory.
+3. Run the application by: python3 app.py
+
+4. 🧪 How to Test
+Use Postman, Insomnia, with the request body:
+{
+  "name": "myname",
+  "email": "myemail"
+}
+
+🙋‍♂️ Author
+Sakyi Mustapha
+📧 Email: sakyimustapha5@gmail.com
+🔗 LinkedIn
+
+
 
