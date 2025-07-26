@@ -40,7 +40,7 @@ Use Postman, Insomnia, with the request body:
 🙋‍♂️ Author
 Sakyi Mustapha
 📧 Email: sakyimustapha5@gmail.com
-🔗 LinkedIn
+🔗 LinkedIn: https://www.linkedin.com/in/sakyi-mustapha-958438367?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BbaKaRLreReuH47zYoTmWYw%3D%3D
 
 
 
